@@ -1,0 +1,64 @@
+/* font-family: 'Roboto Slab', serif; */
+
+/* Row Top */
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.rowtop {
+  background-color: #ed2124;
+  color: white;
+  vertical-align: middle;
+}
+
+.icon1, .icon2 {
+  color: whtie;
+}
+
+.icon1 {
+  margin-left: 20px;  
+}
+
+.socialmedia {
+  color: white;
+}
+
+.socialmediaicons {
+  padding-left: 15px;
+   
+}
+
+.yelp, .facebook, .linkedin {
+  margin-left: 20px;
+  color: white;
+}
+
+.navbar {
+  background-color: black; 
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+
+.logo {
+  width: 80%;
+}
+
+.homepageTitle {
+  font-weight: bold;
+  font-size: 27px;
+}
+
+.foodPicture {
+  width: 55%;
+}
+
+.imageHeading {
+  font-size: 15px;
+}
+
+.foodDescription {
+  font-size: 15px;
+  font-weight: 300;
+}
