@@ -45,6 +45,10 @@ body {
   width: 80%;
 }
 
+.homepageFood {
+  margin: 2px;
+}
+
 
 .homepageTitle {
   font-weight: bold;
