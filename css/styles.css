@@ -69,3 +69,9 @@ body {
   color: white;
   font-size: 10px;
 }
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
